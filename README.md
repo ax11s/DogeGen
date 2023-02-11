@@ -2,7 +2,7 @@
 
 A simple discord bot that sends random doge, cat and bird images. Made with shibe.online api.
 
-There are the 3 commands and their results:
+Here are the 3 commands and their results:
 <br>
 <br>
 ### !doge - Displays a random shiba inu image<br>
